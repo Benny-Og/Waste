@@ -11,7 +11,10 @@ This p rojectoffers a comprehensive analysis of plastic waste generation, recycl
 - <b>Python</b> 
 - <b>Pandas</b>
 - <b>MatPlotLib</b>
-- <b>Graphs()</b>
+- <b>Graphs</b>
+- <b>MAX()</b>
+- <b>MIN()</b>
+- <b>MODE()</b>
 
 <h2>File Access</h2>
 
